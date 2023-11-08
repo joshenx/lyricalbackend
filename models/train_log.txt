@@ -1,0 +1,12 @@
+{'epoch': 0, 'train_loss': 4.054049056100646, 'Stage.VALID loss': 3.60992252628833, 'Stage.VALID PER': 100.0, 'Old LR': 0.005, 'New LR': 0.005}
+{'epoch': 1, 'train_loss': 3.7231021283573065, 'Stage.VALID loss': 3.5463039142956916, 'Stage.VALID PER': 100.0, 'Old LR': 0.005, 'New LR': 0.005}
+{'epoch': 2, 'train_loss': 3.5476853748574815, 'Stage.VALID loss': 3.423778317281321, 'Stage.VALID PER': 100.0, 'Old LR': 0.005, 'New LR': 0.005}
+{'epoch': 3, 'train_loss': 3.4295921197076056, 'Stage.VALID loss': 3.2405281249912945, 'Stage.VALID PER': 99.15796564499831, 'Old LR': 0.005, 'New LR': 0.005}
+{'epoch': 4, 'train_loss': 3.3002300766988406, 'Stage.VALID loss': 3.0531184025325215, 'Stage.VALID PER': 96.98551700909397, 'Old LR': 0.005, 'New LR': 0.005}
+{'epoch': 5, 'train_loss': 3.1050334639569037, 'Stage.VALID loss': 2.8337087554555676, 'Stage.VALID PER': 91.8996295048838, 'Old LR': 0.005, 'New LR': 0.005}
+{'epoch': 6, 'train_loss': 2.959958882500029, 'Stage.VALID loss': 2.673472904318104, 'Stage.VALID PER': 86.83058268777366, 'Old LR': 0.005, 'New LR': 0.005}
+{'epoch': 7, 'train_loss': 2.833602898843061, 'Stage.VALID loss': 2.5695178038846396, 'Stage.VALID PER': 81.80363758841361, 'Old LR': 0.005, 'New LR': 0.005}
+{'epoch': 8, 'train_loss': 2.7509776569006386, 'Stage.VALID loss': 2.4850864264480346, 'Stage.VALID PER': 78.10710676995622, 'Old LR': 0.005, 'New LR': 0.005}
+{'epoch': 9, 'train_loss': 2.651775730101397, 'Stage.VALID loss': 2.3902559498039015, 'Stage.VALID PER': 75.61468507915123, 'Old LR': 0.005, 'New LR': 0.005}
+{'Stage.TEST loss': 3.0183979238073038, 'Stage.TEST PER': 81.31433095803642}
+{'Stage.TEST loss': 0.0, 'Stage.TEST PER': 100.0}
