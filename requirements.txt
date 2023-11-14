@@ -4,3 +4,4 @@ torch
 speechbrain
 HyperPyYAML
 numpy
+python-multipart
